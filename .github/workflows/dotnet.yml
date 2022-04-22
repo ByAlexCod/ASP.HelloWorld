@@ -44,4 +44,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: user/asphelloworld:latest
+          tags: nestor1807/asphelloworld:latest
